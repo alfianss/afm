@@ -1,0 +1,14 @@
+/*
+Theme Name: AFM
+Author: Alfian SS
+Description: AFM Wordpress
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+#main-site {
+    height: 768px;
+    width: auto;
+    padding: 10px;
+}
